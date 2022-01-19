@@ -13,6 +13,6 @@ Contenu:
 - Dossier du projet contenant l'intégralité du code de l'outil (à ouvrir sur Visual Studio)
 
 Consignes d'utilisation:  
-Il est recommandé de consulter le dossier de conception pour comprendre les enjeux et le fonctionnement de l'outil.
+Il est recommandé de consulter le dossier de conception pour comprendre les enjeux et le fonctionnement de l'outil.  
 Pour une utilisation directe de l'outil, télécharger l'éxécutable du projet.  
 Pour avoir accés au code complet de l'outil, consulter le listing commenté ou le dossier "Projet".
