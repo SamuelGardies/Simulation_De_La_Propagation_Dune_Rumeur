@@ -1,0 +1,12 @@
+D:\Université\Cours\Semestre 4\algo\Projet\bin\Debug\Projet.exe.config
+D:\Université\Cours\Semestre 4\algo\Projet\bin\Debug\Projet.exe
+D:\Université\Cours\Semestre 4\algo\Projet\bin\Debug\Projet.pdb
+D:\Université\Cours\Semestre 4\algo\Projet\bin\Debug\Projet.xml
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.vbprojAssemblyReference.cache
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.Form1.resources
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.Resources.resources
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.vbproj.GenerateResource.cache
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.vbproj.CoreCompileInputs.cache
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.exe
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.xml
+D:\Université\Cours\Semestre 4\algo\Projet\obj\Debug\Projet.pdb
